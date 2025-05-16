@@ -39,7 +39,7 @@ Notes:
 2. Use the following title format at the beginning of your file:
 
 ```markdown
-# Lectura X - Title of Your Note
+# Lectura X - Title of Your Note 
 ```
 
 Where X is the lecture number (ensures notes are sorted properly).
